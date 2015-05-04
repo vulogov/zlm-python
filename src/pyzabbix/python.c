@@ -1,6 +1,6 @@
 
 /*
- ** Vladimir Ulogov (c) 2014. ver 0.2.7 (no-context)
+ ** Vladimir Ulogov (c) 2015. ver 0.3 (no-context)
  ** Use it at your own risk
 */
 
