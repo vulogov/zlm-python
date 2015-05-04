@@ -1,0 +1,6 @@
+Modules, located in ../../modules directory
+============================================
+
+psutils - install it in general Python modules tree
+AF_stroke - install it in /etc/zabbix/pymodules/lib on all strongswan nodes
+
