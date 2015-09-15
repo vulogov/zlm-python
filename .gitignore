@@ -1,0 +1,6 @@
+
+*.swp
+
+src/pyzabbix/python.cfg
+
+src/pyzabbix/python.so
