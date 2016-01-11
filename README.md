@@ -1,3 +1,10 @@
+WARNING!!!!
+==============
+Development of xlm-python in this repo is frozen. All future development 
+continues here
+https://github.com/vulogov/zlm-cython
+
+
 zlm-python
 ==============
 
